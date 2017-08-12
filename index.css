@@ -1,0 +1,24 @@
+
+th{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+ul{
+    list-style-type: square;
+}
+
+iframe{
+    box-shadow: 10px 10px 5px #888888;
+}
+
+ol{
+    display: inline;
+}
+
+.index-h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: grey;
+}
